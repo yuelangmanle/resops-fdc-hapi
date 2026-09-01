@@ -47,13 +47,15 @@ for cid in sorted(df["cluster"].dropna().astype(int).unique()):
 ax.axhline(0, color="black", linewidth=0.9, linestyle="--")
 ax.set_xlabel("Flow duration percentile (%)")
 ax.set_ylabel("Relative FDC alteration (%)")
-ax.set_title("Functional partitions of reservoir FDC alteration")
 ax.set_xlim(1, 99)
 ax.set_ylim(-100, 300)
 ax.grid(True, alpha=0.25)
 ax.set_axisbelow(True)
-ax.legend(fontsize=6.5, loc="upper center", bbox_to_anchor=(0.5, 1.14), ncol=2, frameon=True)
-fig.tight_layout(rect=[0, 0, 1, 0.91])
+handles, legend_labels = ax.get_legend_handles_labels()
+fig.legend(handles, legend_labels, fontsize=7.0, loc="upper center",
+           bbox_to_anchor=(0.5, 0.98), ncol=2, frameon=False,
+           handlelength=2.2, columnspacing=1.2)
+fig.subplots_adjust(top=0.78, left=0.11, right=0.98, bottom=0.14)
 for ext in ["png", "svg", "pdf", "tiff"]:
     fig.savefig(FIGDIR / f"fig3_fdc_clusters.{ext}", bbox_inches="tight", dpi=300)
 print("saved fig3_fdc_clusters")

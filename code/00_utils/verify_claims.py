@@ -1,4 +1,4 @@
-"""Compare freshly reproduced outputs against manuscript claims; produce reviewer-facing report."""
+"""Compare reproduced outputs against manuscript claims and write a verification report."""
 import csv
 import json
 import re

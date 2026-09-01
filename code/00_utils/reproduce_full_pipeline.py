@@ -4,7 +4,7 @@ Reproduces, from raw CSVs, every number claimed in the manuscript and compares
 them against the values stated in STANDARD_MANUSCRIPT.md. Output:
 
   outputs/reproducibility/reproduce_report.json   (machine-readable)
-  docs/REPRODUCIBILITY_REPORT.md                  (human-readable, reviewer-facing)
+  docs/REPRODUCIBILITY_REPORT.md                  (human-readable verification report)
 
 Pipeline steps (mirrors code/03_analysis):
   1. Rebuild the raw-data eligibility inventory
