@@ -26,7 +26,7 @@ series = [
      "mean = {:.2f}; P5 = {:.2f}".format(data["spearman_mean"], data["spearman_p5"])),
     (np.asarray(data["top10_overlap_list"], dtype=float), "#D77A2B",
      "Top-10 overlap", data["top10_overlap_mean"], None,
-     "mean = {:.1%}".format(data["top10_overlap_mean"])),
+     "mean = {:.1%}; min = {:.1%}".format(data["top10_overlap_mean"], data["top10_overlap_min"])),
 ]
 for i, (values, color, xlabel, mean, p5, stat_label) in enumerate(series):
     values = np.sort(values)

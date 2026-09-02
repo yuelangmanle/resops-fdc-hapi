@@ -1,5 +1,7 @@
 # Reservoir FDC Alteration and HAPI
 
+Current public release: **v1.0.2** (the code snapshot used for the Journal of Hydrology submission package).
+
 Analysis code for the manuscript *Large-sample assessment of reservoir-associated flow-duration-curve alteration and a hydrological alteration prioritization index across the United States, with a preliminary comparison in Brazil*.
 
 ## Scope

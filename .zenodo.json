@@ -1,0 +1,45 @@
+{
+  "title": "Reservoir FDC Alteration and HAPI",
+  "description": "Reproducible analysis code for reservoir flow-duration-curve alteration and the Hydrological Alteration Prioritization Index (HAPI). This release contains the scripts used for the Journal of Hydrology submission package.",
+  "upload_type": "software",
+  "version": "1.0.2",
+  "license": "MIT",
+  "keywords": [
+    "reservoir operations",
+    "flow duration curve",
+    "hydrological alteration",
+    "HAPI",
+    "large-sample hydrology"
+  ],
+  "creators": [
+    {
+      "name": "Deng, Zijie",
+      "affiliation": "Jiangxi University of Water Resources and Electric Power",
+      "orcid": "0009-0002-4824-9764"
+    },
+    {
+      "name": "Xia, Yu",
+      "affiliation": "Jiangxi University of Water Resources and Electric Power"
+    },
+    {
+      "name": "Yu, Jiyang",
+      "affiliation": "Jiangxi University of Water Resources and Electric Power"
+    },
+    {
+      "name": "Liao, Zhenyu",
+      "affiliation": "Jiangxi University of Water Resources and Electric Power"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.15978041",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.16096623",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    }
+  ]
+}

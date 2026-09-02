@@ -1,0 +1,11 @@
+# Analysis environment for the manuscript pipeline
+# Tested with Python 3.9+ on macOS/Linux
+numpy>=1.21
+pandas>=1.4
+scipy>=1.8
+scikit-learn>=1.0
+matplotlib>=3.5
+econml>=0.14
+# (optional) geemap/earthengine-api and requests needed only for the GEE remote-sensing extraction step
+earthengine-api>=0.1
+requests>=2.28
