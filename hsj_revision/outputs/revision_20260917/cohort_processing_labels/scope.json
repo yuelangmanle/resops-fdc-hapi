@@ -1,0 +1,6 @@
+{
+  "label_period": "calendar 1980-01-01 through 2019-12-31; WY1980 and WY2020 partial; not used to recompute eligibility",
+  "method": "historical pipeline transcription; timezonefinder current geographic mapping; exact reproduction tested per reservoir",
+  "caution": "labels describe modeled processing stages; CARS attribution accepted only for matching replay, otherwise candidate labels",
+  "daily_files": 275
+}

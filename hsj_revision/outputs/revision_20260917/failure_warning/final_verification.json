@@ -1,0 +1,10 @@
+{
+  "folds_verified": 10,
+  "score_rows_recomputed": 8,
+  "probability_range": "passed",
+  "labels_model_independent": true,
+  "threshold_training_only": "passed",
+  "basin_and_time_separation": "passed",
+  "no_nonbaseline_brier_point_improvement": true,
+  "missing_annual_shape_feature_rows": 2
+}

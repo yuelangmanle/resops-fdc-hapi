@@ -1,0 +1,21 @@
+panel,scenario,model,n,mae,ci_low,ci_high
+a,All CARS (n=197),persistence,197,0.0773008771832196,,
+a,Common (n=154),persistence,154,0.05754472359424147,,
+a,CARS-only (n=43),persistence,43,0.1480554737576994,,
+b,cars_common_cohort,persistence,154,0.0575447235942414,,
+b,upstream_common_cohort,persistence,154,0.0587697021232848,,
+b,cars_common_cohort,rf,154,0.0981127185888984,,
+b,upstream_common_cohort,rf,154,0.0980322177098441,,
+c,raw_common_cohort,persistence,154,0.0587697021232848,,
+c,gap1_common_cohort,persistence,154,0.0590699675315324,,
+c,gap3_common_cohort,persistence,154,0.0589133816837816,,
+c,gap7_common_cohort,persistence,154,0.0589327352399955,,
+c,raw_common_cohort,rf,154,0.0980322177098441,,
+c,gap1_common_cohort,rf,154,0.0982097300813868,,
+c,gap3_common_cohort,rf,154,0.0986049275002916,,
+c,gap7_common_cohort,rf,154,0.0986607080661965,,
+d,cars_common_cohort,rf-minus-persistence,154,0.040567994994657006,0.0027333455345158,0.0568691292913043
+d,upstream_common_cohort,rf-minus-persistence,154,0.039262515586559306,-0.0007018503508467,0.0575586400251164
+d,gap1_common_cohort,rf-minus-persistence,154,0.03913976254985439,-0.0003510695251001,0.0571251429823906
+d,gap3_common_cohort,rf-minus-persistence,154,0.03969154581650999,-0.0005647754531915,0.0578538023129814
+d,gap7_common_cohort,rf-minus-persistence,154,0.039727972826201004,-0.0005969970342815,0.0580306005702308

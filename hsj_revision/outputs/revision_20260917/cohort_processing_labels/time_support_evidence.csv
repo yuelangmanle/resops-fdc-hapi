@@ -1,0 +1,589 @@
+ID,variable,agency,inventory_description,notes,time_support
+1001,inflow,DUKE,Real time,,unresolved
+1001,outflow,DUKE,Real time,,unresolved
+1003,inflow,DUKE,Real time,,unresolved
+1003,outflow,DUKE,Real time,,unresolved
+1006,inflow,DUKE,Real time,,unresolved
+1006,outflow,DUKE,Real time,,unresolved
+1007,inflow,DUKE,Real time,,unresolved
+1007,outflow,DUKE,Real time,,unresolved
+1017,inflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1017,outflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1020,inflow,DUKE,Real time,,unresolved
+1020,outflow,DUKE,Real time,,unresolved
+1021,inflow,DUKE,Real time,,unresolved
+1021,outflow,DUKE,Real time,,unresolved
+1023,inflow,DUKE,Real time,,unresolved
+1023,outflow,DUKE,Real time,,unresolved
+1026,inflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1026,outflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1027,inflow,DUKE,Real time,,unresolved
+1027,outflow,DUKE,Real time,,unresolved
+1028,inflow,DUKE,Real time,,unresolved
+1028,outflow,DUKE,Real time,,unresolved
+1032,inflow,DUKE,Real time,,unresolved
+1032,outflow,DUKE,Real time,,unresolved
+1033,inflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1033,outflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1036,inflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1036,outflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1042,inflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1042,outflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1048,inflow,DUKE,Real time,,unresolved
+1048,outflow,DUKE,Real time,,unresolved
+1051,inflow,DUKE,Real time,,unresolved
+1051,outflow,DUKE,Real time,,unresolved
+1053,inflow,DUKE,Real time,,unresolved
+1053,outflow,DUKE,Real time,,unresolved
+1067,inflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1067,outflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1070,inflow,DUKE,Real time,,unresolved
+1070,outflow,DUKE,Real time,,unresolved
+1075,inflow,DUKE,Real time,,unresolved
+1075,outflow,DUKE,Real time,,unresolved
+1078,inflow,DUKE,Real time,,unresolved
+1078,outflow,DUKE,Real time,,unresolved
+1084,inflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1084,outflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1086,inflow,BOR,Real time,,unresolved
+1086,outflow,usgs_8382830,,,unresolved
+1092,inflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1092,outflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1093,inflow,DUKE,Real time,,unresolved
+1093,outflow,DUKE,Real time,,unresolved
+1095,inflow,BOR,Real time,,unresolved
+1095,outflow,usgs,,,unresolved
+1101,inflow,ACE_VIC,Real time,,unresolved
+1101,outflow,ACE_VIC,Real time,,unresolved
+1109,inflow,BOR,Real time,,unresolved
+1109,outflow,BOR,Real time,,unresolved
+1112,inflow,ACE_VIC,Real time,,unresolved
+1112,outflow,ACE_VIC,Real time,,unresolved
+1120,inflow,DUKE,Real time,,unresolved
+1120,outflow,DUKE,Real time,,unresolved
+1121,inflow,ACE_VIC,Real time,,unresolved
+1121,outflow,ACE_VIC,Real time,,unresolved
+1122,inflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1122,outflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1124,inflow,DUKE,Real time,,unresolved
+1124,outflow,DUKE,Real time,,unresolved
+1125,inflow,ACE_VIC,Real time,,unresolved
+1125,outflow,ACE_VIC,Real time,,unresolved
+1127,inflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1127,outflow,ACE_LIT,Real time,Linear interpolation was doneto determine storage values as we were given the storage-elevation chart. We marked extremely negative values as 0.,unresolved
+1128,inflow,DUKE,Real time,,unresolved
+1128,outflow,DUKE,Real time,,unresolved
+1134,inflow,DUKE,Real time,,unresolved
+1134,outflow,DUKE,Real time,,unresolved
+114,inflow,BOR_PN,Real time,,unresolved
+114,outflow,BOR_PN,Real time,,unresolved
+1144,inflow,DUKE,Real time,,unresolved
+1144,outflow,DUKE,Real time,,unresolved
+1151,inflow,ACE_FOR,Real time,,unresolved
+1151,outflow,usgs_8051135,,,unresolved
+1170,inflow,DUKE,Real time,,unresolved
+1170,outflow,DUKE,Real time,,unresolved
+1192,inflow,ACE_VIC,Real time,,unresolved
+1192,outflow,ACE_VIC,Real time,,unresolved
+1197,inflow,DUKE,Real time,,unresolved
+1197,outflow,DUKE,Real time,,unresolved
+1207,inflow,PRVWD,Real time,Storage was linearly interpolated using storage elevation charts.,unresolved
+1207,outflow,PRVWD,Real time,Storage was linearly interpolated using storage elevation charts.,unresolved
+1237,inflow,ACE_FOR,Real time,,unresolved
+1237,outflow,ACE_FOR,Real time,,unresolved
+1249,inflow,ACE_FOR,Real time,,unresolved
+1249,outflow,ACE_FOR,Real time,,unresolved
+131,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+131,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+132,inflow,BOR,Real time,,unresolved
+132,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+133,inflow,BOR,Real time,,unresolved
+133,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+144,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+144,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+148,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+148,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+1585,inflow,ACE_PHI,,,unresolved
+1585,outflow,ACE_PHI,,,unresolved
+1586,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1586,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1587,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1587,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1592,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1592,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1595,inflow,ACE_HUN,Real time,,unresolved
+1595,outflow,ACE_HUN,Real time,,unresolved
+1600,inflow,ACE_HUN,Real time,,unresolved
+1600,outflow,ACE_HUN,Real time,,unresolved
+1606,inflow,ACE_HUN,Real time,,unresolved
+1606,outflow,ACE_HUN,Real time,,unresolved
+1615,inflow,ACE_PHI,,,unresolved
+1615,outflow,ACE_PHI,,,unresolved
+1617,inflow,ACE_HUN,Real time,,unresolved
+1617,outflow,ACE_HUN,Real time,,unresolved
+1619,inflow,ACE_HUN,Real time,,unresolved
+1619,outflow,ACE_HUN,Real time,,unresolved
+1620,inflow,ACE_HUN,Real time,,unresolved
+1620,outflow,ACE_HUN,Real time,,unresolved
+163,inflow,DUKE,Real time,,unresolved
+163,outflow,DUKE,Real time,,unresolved
+1631,inflow,ACE_HUN,Real time,,unresolved
+1631,outflow,ACE_HUN,Real time,,unresolved
+1634,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1634,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1636,inflow,ACE_HUN,Real time,,unresolved
+1636,outflow,ACE_HUN,Real time,,unresolved
+1645,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1645,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1650,inflow,ACE_HUN,Real time,,unresolved
+1650,outflow,ACE_HUN,Real time,,unresolved
+1654,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1654,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1655,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1655,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1656,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1656,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+168,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+168,outflow,usgs_11418000,,,unresolved
+1683,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1683,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+169,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+169,outflow,usgs_11461000,,,unresolved
+1691,inflow,ACE_HUN,Real time,,unresolved
+1691,outflow,ACE_HUN,Real time,,unresolved
+1699,inflow,ACE_HUN,Real time,,unresolved
+1699,outflow,ACE_HUN,Real time,,unresolved
+1703,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1703,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1706,inflow,ACE_HUN,Real time,,unresolved
+1706,outflow,ACE_HUN,Real time,,unresolved
+1707,inflow,ACE_HUN,Real time,,unresolved
+1707,outflow,ACE_HUN,Real time,,unresolved
+1709,inflow,ACE_HUN,Real time,,unresolved
+1709,outflow,ACE_HUN,Real time,,unresolved
+1712,inflow,ACE_HUN,Real time,,unresolved
+1712,outflow,ACE_HUN,Real time,,unresolved
+1713,inflow,ACE_HUN,Real time,,unresolved
+1713,outflow,ACE_HUN,Real time,,unresolved
+1714,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1714,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1716,inflow,DUKE,Real time,,unresolved
+1716,outflow,DUKE,Real time,,unresolved
+1718,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1718,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1723,inflow,ACE_HUN,Real time,,unresolved
+1723,outflow,ACE_HUN,Real time,,unresolved
+1726,inflow,ACE_HUN,Real time,,unresolved
+1726,outflow,ACE_HUN,Real time,,unresolved
+173,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+173,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+1733,inflow,ACE_HUN,Real time,,unresolved
+1733,outflow,ACE_HUN,Real time,,unresolved
+1735,inflow,ACE_HUN,Real time,,unresolved
+1735,outflow,ACE_HUN,Real time,,unresolved
+1739,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1739,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1740,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1740,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1741,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1741,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1742,inflow,ACE_HUN,Real time,,unresolved
+1742,outflow,ACE_HUN,Real time,,unresolved
+1744,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1744,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1752,inflow,ACE_NAS,,,unresolved
+1752,outflow,ACE_NAS,,,unresolved
+1753,inflow,TVA,Aggregated spatially and temporally,inflow was not provided by the agency. The gauges used by TVA to estimate inflow for the dams are listed here: Bear Creek at Bishop; Bear Creek near Red Bay; Beaver Creek near Monticello; Beech below Wolf Creek;Big Nance Creek at Courtland Big Sandy at Bruceton; Bledsoe Creek; Bradley Creek near Prairie Plains; Buffalo below Lobelville; Buffalo near FLat Woods; Calfkiller below Sparta; Clear Fork Near Robbins; Clinch Above Tazewell; Clinch at Cleveland; CLinch at Speers Ferry; Collins Near McMinniville; Cumberland at Williamsburg; Doe at Elizabethton; Duck above Hurricane Mills; Duck at Centerville;Duck at Columbia; Duck at Milltown; Duck at Shelbyville; Duck below Manchester; Duck near Shelbyville; East Fork Obey near Jamestown;East Fork Pigeon at Canton; East Fork Stones near Lascassas; Elk River near Pelham; Elk above Fayetteville; Elk at Prospect; Emory at Oakdale; Flint at Brownsboro; Flint near Chase; French Broad at Asheville; French Broad at Blantyre; French Broad at Hot Springs; French Broad at Marshall; French Broad at Rosman; French Broad near Newport; Green at Paradise; Harpeth at Bellevue; Harpeth at Franklin TN; Harpeth at Kingston Springs; hiwassee at Charleston; Hiwassee at Presley; Hiwassee near Hiwassee; Horse Creek near Savannah; Little Pigeon atSevierville; Little Tennessee at Needmore Little Tennessee at Prentiss; Little above Townsend; LIttle at Alcoa; Little near Cadiz; Little nearMaryville; Lookout at New England; Middle Fork Holston at 7 Mile Frd; MIll Creek near Antioch; New near Robbins;Nolichucky at Embreeville; Nolichucky at Lowlands;North Fork Holston at Saltville; North Fork Holston near Gate City; Nottely at Blairsville(TVA);Nottely near Blairsville (USGS); Ocoee at Copperhill; Ocoee near Archville; Oconaluftee at Birdtown; Pain Rock near Woodville;Pigeon at Newport; Pigeon at Waterville; Pigeon near Hepco; Powell near Arthur; Powell nearJonesville; Richland at Pulaski; Red at Port Royal; Rockcastle at Billows;Sequatchie near Whiwell; Sewee Creek near Decatur;Shoal Creek at Iron City; Smiths Fork at Temperance Hall;South Chickamauga Creek near Chickamauga; South Fork Cumberland near Stearns; South Fork Holston River at Kingsport (TEC); South Fork near Damascus; South Sauty Creek near Rainsville; Swannanoa at Biltmore; Tellico River at Tellico Plains; Toccoa near Dial; Town Creek near Geraldine; Tuckasegee at Bryson City; Tuckasegee at Tuckasegee;Tuckasegee near Dillsboro; Watauga at Elizabethton; Watauga near Sugar Grove;West Chickamauga at Fort Oglethorpe; West Fork Pigeon at Retreat; West Fork Stones at Murfreesboro; Wolf near Byrdstown; Yellow Creek at Ellis Mills,unresolved
+1753,outflow,TVA,Aggregated spatially and temporally,inflow was not provided by the agency. The gauges used by TVA to estimate inflow for the dams are listed here: Bear Creek at Bishop; Bear Creek near Red Bay; Beaver Creek near Monticello; Beech below Wolf Creek;Big Nance Creek at Courtland Big Sandy at Bruceton; Bledsoe Creek; Bradley Creek near Prairie Plains; Buffalo below Lobelville; Buffalo near FLat Woods; Calfkiller below Sparta; Clear Fork Near Robbins; Clinch Above Tazewell; Clinch at Cleveland; CLinch at Speers Ferry; Collins Near McMinniville; Cumberland at Williamsburg; Doe at Elizabethton; Duck above Hurricane Mills; Duck at Centerville;Duck at Columbia; Duck at Milltown; Duck at Shelbyville; Duck below Manchester; Duck near Shelbyville; East Fork Obey near Jamestown;East Fork Pigeon at Canton; East Fork Stones near Lascassas; Elk River near Pelham; Elk above Fayetteville; Elk at Prospect; Emory at Oakdale; Flint at Brownsboro; Flint near Chase; French Broad at Asheville; French Broad at Blantyre; French Broad at Hot Springs; French Broad at Marshall; French Broad at Rosman; French Broad near Newport; Green at Paradise; Harpeth at Bellevue; Harpeth at Franklin TN; Harpeth at Kingston Springs; hiwassee at Charleston; Hiwassee at Presley; Hiwassee near Hiwassee; Horse Creek near Savannah; Little Pigeon atSevierville; Little Tennessee at Needmore Little Tennessee at Prentiss; Little above Townsend; LIttle at Alcoa; Little near Cadiz; Little nearMaryville; Lookout at New England; Middle Fork Holston at 7 Mile Frd; MIll Creek near Antioch; New near Robbins;Nolichucky at Embreeville; Nolichucky at Lowlands;North Fork Holston at Saltville; North Fork Holston near Gate City; Nottely at Blairsville(TVA);Nottely near Blairsville (USGS); Ocoee at Copperhill; Ocoee near Archville; Oconaluftee at Birdtown; Pain Rock near Woodville;Pigeon at Newport; Pigeon at Waterville; Pigeon near Hepco; Powell near Arthur; Powell nearJonesville; Richland at Pulaski; Red at Port Royal; Rockcastle at Billows;Sequatchie near Whiwell; Sewee Creek near Decatur;Shoal Creek at Iron City; Smiths Fork at Temperance Hall;South Chickamauga Creek near Chickamauga; South Fork Cumberland near Stearns; South Fork Holston River at Kingsport (TEC); South Fork near Damascus; South Sauty Creek near Rainsville; Swannanoa at Biltmore; Tellico River at Tellico Plains; Toccoa near Dial; Town Creek near Geraldine; Tuckasegee at Bryson City; Tuckasegee at Tuckasegee;Tuckasegee near Dillsboro; Watauga at Elizabethton; Watauga near Sugar Grove;West Chickamauga at Fort Oglethorpe; West Fork Pigeon at Retreat; West Fork Stones at Murfreesboro; Wolf near Byrdstown; Yellow Creek at Ellis Mills,unresolved
+1754,inflow,ACE_NAS,,,unresolved
+1754,outflow,ACE_NAS,,,unresolved
+1755,inflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1755,outflow,ACE_LOU,Aggregated spatially and temporally,Given inflow and outflow from multiple sources as well as over 4 hour periods. Summed the inflow and outflow from different sources and then took the average over the day to get the daily inflow and outflow to each reservoir. Storage was linearly interpolated as we were also given a storage-elevation curve,agency_note_daily_average
+1756,inflow,ACE_NAS,,,unresolved
+1756,outflow,ACE_NAS,,,unresolved
+1761,inflow,DUKE,Real time,,unresolved
+1761,outflow,DUKE,Real time,,unresolved
+1762,inflow,ACE_NAS,,,unresolved
+1762,outflow,ACE_NAS,,,unresolved
+1768,inflow,ACE_NAS,,,unresolved
+1768,outflow,ACE_NAS,,,unresolved
+1775,inflow,ACE_NAS,,,unresolved
+1775,outflow,ACE_NAS,,,unresolved
+1776,inflow,DUKE,Real time,,unresolved
+1776,outflow,DUKE,Real time,,unresolved
+1777,inflow,ACE_NAS,,,unresolved
+1777,outflow,ACE_NAS,,,unresolved
+1782,inflow,DUKE,Real time,,unresolved
+1782,outflow,DUKE,Real time,,unresolved
+1796,inflow,DUKE,Real time,,unresolved
+1796,outflow,DUKE,Real time,,unresolved
+180,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+180,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+182,inflow,BOR,Real time,,unresolved
+182,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+1848,inflow,ACE_VIC,Real time,,unresolved
+1848,outflow,ACE_VIC,Real time,,unresolved
+185,inflow,BOR,Real time,,unresolved
+185,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+1851,inflow,ACE_SAV,Real time,,unresolved
+1851,outflow,ACE_SAV,Real time,,unresolved
+1864,inflow,ACE_VIC,Real time,,unresolved
+1864,outflow,ACE_VIC,Real time,,unresolved
+1869,inflow,ACE_VIC,Real time,,unresolved
+1869,outflow,ACE_VIC,Real time,,unresolved
+1872,inflow,ACE_SAV,Real time,,unresolved
+1872,outflow,ACE_SAV,Real time,,unresolved
+1879,inflow,SAN,Aggregated spatially from streamgages,Storage for Lake Marion was linearly interpolated using storage elevation relationships. All data was downloaded from USGS streamgages (Elevation: Lake Marion: 02171000; Lake Moultrie:  02172000; Inflow: Wateree River: 02148000; Camden River: 02148000; Ft. Motte: 02169810; Outflow: Cooper River: 02172002; Santee River: 02171500; Rediv Canal: 02171645; Santee + Red: 02171700,unresolved
+1879,outflow,SAN,Aggregated spatially from streamgages,Storage for Lake Marion was linearly interpolated using storage elevation relationships. All data was downloaded from USGS streamgages (Elevation: Lake Marion: 02171000; Lake Moultrie:  02172000; Inflow: Wateree River: 02148000; Camden River: 02148000; Ft. Motte: 02169810; Outflow: Cooper River: 02172002; Santee River: 02171500; Rediv Canal: 02171645; Santee + Red: 02171700,unresolved
+1883,inflow,ACE_VIC,Real time,,unresolved
+1883,outflow,ACE_VIC,Real time,,unresolved
+1890,inflow,SAN,Aggregated spatially from streamgages,Storage for Lake Marion was linearly interpolated using storage elevation relationships. All data was downloaded from USGS streamgages (Elevation: Lake Marion: 02171000; Lake Moultrie:  02172000; Inflow: Wateree River: 02148000; Camden River: 02148000; Ft. Motte: 02169810; Outflow: Cooper River: 02172002; Santee River: 02171500; Rediv Canal: 02171645; Santee + Red: 02171700,unresolved
+1890,outflow,SAN,Aggregated spatially from streamgages,Storage for Lake Marion was linearly interpolated using storage elevation relationships. All data was downloaded from USGS streamgages (Elevation: Lake Marion: 02171000; Lake Moultrie:  02172000; Inflow: Wateree River: 02148000; Camden River: 02148000; Ft. Motte: 02169810; Outflow: Cooper River: 02172002; Santee River: 02171500; Rediv Canal: 02171645; Santee + Red: 02171700,unresolved
+190,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+190,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+191,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+191,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+1910,inflow,DUKE,Real time,,unresolved
+1910,outflow,DUKE,Real time,,unresolved
+1916,inflow,usgs_235750,,,unresolved
+1916,outflow,usgs_2358000,,,unresolved
+193,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+193,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+198,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+198,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+203,inflow,DUKE,Real time,,unresolved
+203,outflow,DUKE,Real time,,unresolved
+204,inflow,BOR,Real time,,unresolved
+204,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+210,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+210,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+214,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+214,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+2158,inflow,DUKE,Real time,,unresolved
+2158,outflow,usgs_1085500,,,unresolved
+2188,inflow,DUKE,Real time,,unresolved
+2188,outflow,DUKE,Real time,,unresolved
+223,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+223,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+292,inflow,BOR,Real time,,unresolved
+292,outflow,BOR,Real time,,unresolved
+293,inflow,BOR,Real time,,unresolved
+293,outflow,BOR,Real time,,unresolved
+297,inflow,ACE_SEA,Real time,,unresolved
+297,outflow,usgs_12301933,,,unresolved
+300,inflow,BOR,Real time,,unresolved
+300,outflow,BOR,Real time,,unresolved
+307,inflow,ACE_OMA,,,unresolved
+307,outflow,ACE_OMA,,,unresolved
+310,inflow,BOR_PN,Real time,,unresolved
+310,outflow,BOR_PN,Real time,,unresolved
+316,inflow,ENKEP,Inflow is aggregated spatially from 4 streamgages:12363000; 12365700; 12366000; 12370000   ; outflow and elevation were also gathered from stream gages: outflow: 12372000; elevation:12371550,"Storage was linearly interpolated from provided storage elevation table. The stream gages used are 12363000, 12365700, 12370000, 12366000 for inflow, 12371550 for elevation, and 12372000 outflow",unresolved
+316,outflow,ENKEP,Inflow is aggregated spatially from 4 streamgages:12363000; 12365700; 12366000; 12370000   ; outflow and elevation were also gathered from stream gages: outflow: 12372000; elevation:12371550,"Storage was linearly interpolated from provided storage elevation table. The stream gages used are 12363000, 12365700, 12370000, 12366000 for inflow, 12371550 for elevation, and 12372000 outflow",unresolved
+317,inflow,BOR,Real time,,unresolved
+317,outflow,BOR,Real time,,unresolved
+319,inflow,BOR,Real time,,unresolved
+319,outflow,BOR,Real time,,unresolved
+320,inflow,BOR,Real time,,unresolved
+320,outflow,BOR,Real time,,unresolved
+355,inflow,BOR,Real time,,unresolved
+355,outflow,BOR,Real time,,unresolved
+361,inflow,BOR_PN,Real time,,unresolved
+361,outflow,BOR_PN,Real time,,unresolved
+362,inflow,BOR,Real time,,unresolved
+362,outflow,BOR,Real time,,unresolved
+364,inflow,BOR,Real time,,unresolved
+364,outflow,BOR,Real time,,unresolved
+367,inflow,BOR_PN,Real time,,unresolved
+367,outflow,BOR_PN,Real time,,unresolved
+368,inflow,BOR,Real time,,unresolved
+368,outflow,BOR ,,,unresolved
+372,inflow,BOR_PN,Real time,,unresolved
+372,outflow,BOR_PN,Real time,,unresolved
+373,inflow,BOR,Real time,,unresolved
+373,outflow,BOR,Real time,,unresolved
+374,inflow,BOR_PN,Real time,,unresolved
+374,outflow,BOR_PN,Real time,,unresolved
+378,inflow,BOR_PN,Real time,,unresolved
+378,outflow,BOR_PN,Real time,,unresolved
+384,inflow,BOR_PN,Real time,,unresolved
+384,outflow,BOR_PN,Real time,,unresolved
+385,inflow,BOR,Real time,,unresolved
+385,outflow,BOR,Real time,,unresolved
+386,inflow,BOR_PN,Real time,,unresolved
+386,outflow,BOR_PN,Real time,,unresolved
+390,inflow,BOR_PN,Real time,,unresolved
+390,outflow,BOR_PN,Real time,,unresolved
+391,inflow,BOR_PN,Real time,,unresolved
+391,outflow,BOR_PN,Real time,,unresolved
+393,inflow,BOR,Real time,,unresolved
+393,outflow,BOR,Real time,,unresolved
+398,inflow,BOR,Real time,,unresolved
+398,outflow,BOR,Real time,,unresolved
+399,inflow,BOR,Real time,,unresolved
+399,outflow,BOR,Real time,,unresolved
+41,inflow,SCL,Real time,,unresolved
+41,outflow,SCL,Real time,,unresolved
+413,inflow,BOR_PN,Real time,,unresolved
+413,outflow,BOR_PN,Real time,,unresolved
+415,inflow,BOR,Real time,,unresolved
+415,outflow,BOR,Real time,,unresolved
+416,inflow,BOR,Real time,,unresolved
+416,outflow,BOR,Real time,,unresolved
+419,inflow,BOR,Real time,,unresolved
+419,outflow,BOR,Real time,,unresolved
+42,inflow,SCL,Real time,,unresolved
+42,outflow,SCL,Real time,,unresolved
+420,inflow,BOR,Real time,,unresolved
+420,outflow,BOR,Real time,,unresolved
+421,inflow,BOR,Real time,,unresolved
+421,outflow,BOR,Real time,,unresolved
+423,inflow,BOR,Real time,,unresolved
+423,outflow,BOR,Real time,,unresolved
+431,inflow,BOR,Real time,,unresolved
+431,outflow,BOR,Real time,,unresolved
+437,inflow,BOR,Real time,,unresolved
+437,outflow,BOR,Real time,,unresolved
+438,inflow,BOR ,,,unresolved
+438,outflow,BOR ,,,unresolved
+442,inflow,BOR,Real time,,unresolved
+442,outflow,BOR,Real time,,unresolved
+445,inflow,BOR,Real time,,unresolved
+445,outflow,BOR,Real time,,unresolved
+448,inflow,BOR,Real time,,unresolved
+448,outflow,BOR,Real time,,unresolved
+449,inflow,BOR,Real time,,unresolved
+449,outflow,BOR,Real time,,unresolved
+450,inflow,BOR,Real time,,unresolved
+450,outflow,BOR,Real time,,unresolved
+451,inflow,BOR,Real time,,unresolved
+451,outflow,BOR,Real time,,unresolved
+456,inflow,BOR,Real time,,unresolved
+456,outflow,BOR,Real time,,unresolved
+458,inflow,BOR,Real time,,unresolved
+458,outflow,BOR,Real time,,unresolved
+467,inflow,BOR,Real time,,unresolved
+467,outflow,BOR,Real time,,unresolved
+469,inflow,BOR,Real time,,unresolved
+469,outflow,BOR,Real time,,unresolved
+470,inflow,BOR,Real time,,unresolved
+470,outflow,BOR,Real time,,unresolved
+471,inflow,BOR,Real time,,unresolved
+471,outflow,BOR,Real time,,unresolved
+473,inflow,BOR,Real time,,unresolved
+473,outflow,BOR,Real time,,unresolved
+477,inflow,BOR,Real time,,unresolved
+477,outflow,BOR,Real time,,unresolved
+488,inflow,BOR,Real time,,unresolved
+488,outflow,BOR,Real time,,unresolved
+492,inflow,BOR,Real time,,unresolved
+492,outflow,BOR,Real time,,unresolved
+493,inflow,BOR,Real time,,unresolved
+493,outflow,BOR,Real time,,unresolved
+497,inflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+497,outflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+500,inflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+500,outflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+502,inflow,BOR,Real time,,unresolved
+502,outflow,BOR,Real time,,unresolved
+505,inflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+505,outflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+506,inflow,BOR,Real time,,unresolved
+506,outflow,BOR,Real time,,unresolved
+507,inflow,BOR,Real time,,unresolved
+507,outflow,BOR,Real time,,unresolved
+508,inflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+508,outflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+509,inflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+509,outflow,BOR,Real time,,unresolved
+511,inflow,ACE_OMA,,,unresolved
+511,outflow,ACE_OMA,,,unresolved
+517,inflow,BOR ,,,unresolved
+517,outflow,BOR ,,,unresolved
+518,inflow,BOR,Real time,,unresolved
+518,outflow,BOR,Real time,,unresolved
+522,inflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+522,outflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+524,inflow,BOR_PN,Real time,,unresolved
+524,outflow,BOR_PN,Real time,,unresolved
+529,inflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+529,outflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+530,inflow,AUR,Real time,,unresolved
+530,outflow,AUR,Real time,,unresolved
+531,inflow,BOR,Real time,,unresolved
+531,outflow,BOR,Real time,,unresolved
+533,inflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+533,outflow,DENW,Real time,Evaporation listed is gross evaporation.,unresolved
+536,inflow,BOR ,,,unresolved
+536,outflow,BOR ,,,unresolved
+537,inflow,BOR,Real time,,unresolved
+537,outflow,BOR,Real time,,unresolved
+541,inflow,BOR,Real time,,unresolved
+541,outflow,BOR,Real time,,unresolved
+542,inflow,BOR,Real time,,unresolved
+542,outflow,BOR,Real time,,unresolved
+549,inflow,BOR,Real time,,unresolved
+549,outflow,usgs_09125800,,,unresolved
+55,inflow,BOR_PN,Real time,,unresolved
+55,outflow,BOR_PN,Real time,,unresolved
+567,inflow,BOR,Real time,,unresolved
+567,outflow,BOR,Real time,,unresolved
+57,inflow,BOR_PN,Real time,,unresolved
+57,outflow,BOR_PN,Real time,,unresolved
+572,inflow,BOR,Real time,,unresolved
+572,outflow,BOR,Real time,,unresolved
+574,inflow,BOR,Real time,,unresolved
+574,outflow,BOR,Real time,,unresolved
+575,inflow,BOR,Real time,,unresolved
+575,outflow,BOR,Real time,,unresolved
+585,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+585,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+592,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+592,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+595,inflow,BOR,Real time,,unresolved
+595,outflow,BOR,Real time,,unresolved
+597,inflow,BOR,Real time,,unresolved
+597,outflow,BOR,Real time,,unresolved
+60,inflow,BOR_PN,Real time,,unresolved
+60,outflow,BOR_PN,Real time,,unresolved
+600,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+600,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+601,inflow,BOR,Real time,,unresolved
+601,outflow,BOR,Real time,,unresolved
+605,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+605,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+609,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+609,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+612,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+612,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+620,inflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+620,outflow,CDEC,Real time,Pan evaporation values were used for Coyote. ,unresolved
+63,inflow,BOR_PN,Real time,,unresolved
+63,outflow,BOR_PN,Real time,,unresolved
+657,inflow,BOR,Real time,,unresolved
+657,outflow,usgs_8361000,,,unresolved
+664,inflow,BOR,Real time,,unresolved
+664,outflow,BOR,Real time,,unresolved
+7308,inflow,ACE_SAV,Real time,,unresolved
+7308,outflow,ACE_SAV,Real time,,unresolved
+7311,inflow,DUKE,Real time,,unresolved
+7311,outflow,DUKE,Real time,,unresolved
+7313,inflow,BOR,Real time,,unresolved
+7313,outflow,BOR,Real time,,unresolved
+7318,inflow,ACE_NAS,,,unresolved
+7318,outflow,ACE_NAS,,,unresolved
+753,inflow,ACE_OMA,,,unresolved
+753,outflow,ACE_OMA,,,unresolved
+758,inflow,ACE_STP,"Agency_Code
+ACE_STP          NaN
+ACE_STP    Real time
+Name: Inflow/Outflow , dtype: object","Agency_Code
+ACE_STP    NaN
+ACE_STP    NaN
+Name: Additional_Data_Notes, dtype: object",unresolved
+758,outflow,ACE_STP,"Agency_Code
+ACE_STP          NaN
+ACE_STP    Real time
+Name: Inflow/Outflow , dtype: object","Agency_Code
+ACE_STP    NaN
+ACE_STP    NaN
+Name: Additional_Data_Notes, dtype: object",unresolved
+768,inflow,ACE_STP,"Agency_Code
+ACE_STP          NaN
+ACE_STP    Real time
+Name: Inflow/Outflow , dtype: object","Agency_Code
+ACE_STP    NaN
+ACE_STP    NaN
+Name: Additional_Data_Notes, dtype: object",unresolved
+768,outflow,ACE_STP,"Agency_Code
+ACE_STP          NaN
+ACE_STP    Real time
+Name: Inflow/Outflow , dtype: object","Agency_Code
+ACE_STP    NaN
+ACE_STP    NaN
+Name: Additional_Data_Notes, dtype: object",unresolved
+777,inflow,BOR ,,,unresolved
+777,outflow,BOR ,,,unresolved
+780,inflow,BOR,Real time,,unresolved
+780,outflow,BOR,Real time,,unresolved
+784,inflow,BOR,Real time,,unresolved
+784,outflow,BOR,Real time,,unresolved
+789,inflow,ACE_STP,"Agency_Code
+ACE_STP          NaN
+ACE_STP    Real time
+Name: Inflow/Outflow , dtype: object","Agency_Code
+ACE_STP    NaN
+ACE_STP    NaN
+Name: Additional_Data_Notes, dtype: object",unresolved
+789,outflow,ACE_STP,"Agency_Code
+ACE_STP          NaN
+ACE_STP    Real time
+Name: Inflow/Outflow , dtype: object","Agency_Code
+ACE_STP    NaN
+ACE_STP    NaN
+Name: Additional_Data_Notes, dtype: object",unresolved
+798,inflow,BOR,Real time,,unresolved
+798,outflow,BOR,Real time,,unresolved
+836,inflow,DUKE,Real time,,unresolved
+836,outflow,DUKE,Real time,,unresolved
+837,inflow,BOR,Real time,,unresolved
+837,outflow,BOR,Real time,,unresolved
+854,inflow,DUKE,Real time,,unresolved
+854,outflow,DUKE,Real time,,unresolved
+868,inflow,BOR,Real time,,unresolved
+868,outflow,BOR,Real time,,unresolved
+870,inflow,ACE_OMA,,,unresolved
+870,outflow,ACE_OMA,,,unresolved
+872,inflow,BOR,Real time,,unresolved
+872,outflow,BOR,Real time,,unresolved
+882,inflow,BOR ,,,unresolved
+882,outflow,BOR ,,,unresolved
+884,inflow,ACE_OMA,,,unresolved
+884,outflow,ACE_OMA,,,unresolved
+885,inflow,BOR,Real time,,unresolved
+885,outflow,BOR,Real time,,unresolved
+893,inflow,BOR,Real time,,unresolved
+893,outflow,BOR,Real time,,unresolved
+895,inflow,ACE_OMA,,,unresolved
+895,outflow,ACE_OMA,,,unresolved
+898,inflow,BOR,Real time,,unresolved
+898,outflow,BOR,Real time,,unresolved
+919,inflow,ACE_OMA,,,unresolved
+919,outflow,ACE_OMA,,,unresolved
+920,inflow,CNPPID,Real time,"The approximations for Jeffrey: inflow = diversion - losses upstream; outflow = losses - approximate inflow; for Johnson Lake, all data before 5-31-1998 is approximate; data after this period is real-time",unresolved
+920,outflow,CNPPID,Real time,"The approximations for Jeffrey: inflow = diversion - losses upstream; outflow = losses - approximate inflow; for Johnson Lake, all data before 5-31-1998 is approximate; data after this period is real-time",unresolved
+929,inflow,CNPPID,Real time,"The approximations for Jeffrey: inflow = diversion - losses upstream; outflow = losses - approximate inflow; for Johnson Lake, all data before 5-31-1998 is approximate; data after this period is real-time",unresolved
+929,outflow,CNPPID,Real time,"The approximations for Jeffrey: inflow = diversion - losses upstream; outflow = losses - approximate inflow; for Johnson Lake, all data before 5-31-1998 is approximate; data after this period is real-time",unresolved
+931,inflow,CNPPID,Real time,"The approximations for Jeffrey: inflow = diversion - losses upstream; outflow = losses - approximate inflow; for Johnson Lake, all data before 5-31-1998 is approximate; data after this period is real-time",unresolved
+931,outflow,CNPPID,Real time,"The approximations for Jeffrey: inflow = diversion - losses upstream; outflow = losses - approximate inflow; for Johnson Lake, all data before 5-31-1998 is approximate; data after this period is real-time",unresolved
+936,inflow,BOR,Real time,,unresolved
+936,outflow,BOR,Real time,,unresolved
+938,inflow,BOR,Real time,,unresolved
+938,outflow,BOR,Real time,,unresolved
+939,inflow,BOR,Real time,,unresolved
+939,outflow,BOR,Real time,,unresolved
+948,inflow,BOR,Real time,,unresolved
+948,outflow,BOR,Real time,,unresolved
+952,inflow,BOR,Real time,,unresolved
+952,outflow,BOR,Real time,,unresolved
+953,inflow,BOR ,,,unresolved
+953,outflow,BOR ,,,unresolved
+956,inflow,BOR ,,,unresolved
+956,outflow,BOR ,,,unresolved
+957,inflow,ACE_OMA,,,unresolved
+957,outflow,usgs_6713000,,,unresolved
+958,inflow,BOR,Real time,,unresolved
+958,outflow,BOR,Real time,,unresolved
+969,inflow,DUKE,Real time,,unresolved
+969,outflow,usgs_6893890,,,unresolved
+974,inflow,DUKE,Real time,,unresolved
+974,outflow,DUKE,Real time,,unresolved
+976,inflow,BOR,Real time,,unresolved
+976,outflow,BOR,Real time,,unresolved
+982,inflow,DUKE,Real time,,unresolved
+982,outflow,DUKE,Real time,,unresolved
+987,inflow,BOR,Real time,,unresolved
+987,outflow,BOR,Real time,,unresolved
+989,inflow,DUKE,Real time,,unresolved
+989,outflow,DUKE,Real time,,unresolved
+993,inflow,AME,Real time,"If storage was not give, historical storage was linearly interpolated with the elevation storage curves.",unresolved
+993,outflow,AME,Real time,"If storage was not give, historical storage was linearly interpolated with the elevation storage curves.",unresolved

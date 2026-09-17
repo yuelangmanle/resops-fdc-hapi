@@ -1,0 +1,7 @@
+{
+  "script_sha256": "76238de0e8bd0a0b88150c90bc6a405c4bc347a82e6d0ae093ba25525161c207",
+  "frozen_function_source_sha256": "7b195776be117e4bcb2de2075db91ec43f7409c00ad0de27f1c818999c32953d",
+  "protocol_sha256": "a6b515784a567cf9e5dbd1187bd0084a5304cc9b3642ef1a031f533ced0b7388",
+  "archive_sha256": "8694db914e24fd4254ccd8deeb7e0960c2113564f61150bc4f723dc28cea8aaf",
+  "note": "upstream is a release file, not ground truth; no values corrected; retrospective sensitivity"
+}

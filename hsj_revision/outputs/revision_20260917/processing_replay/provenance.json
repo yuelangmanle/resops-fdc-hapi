@@ -1,0 +1,14 @@
+{
+  "938": {
+    "upstream_member_sha256": "731e7f9a0e6acdecb36e2831baad073971b11784dc8090537db67d6b572a0c6d",
+    "timezone_assumption": "America/Chicago",
+    "gradient_filtered_days": 0,
+    "case_scope": "1975 onward; common assessment dates through 2019"
+  },
+  "939": {
+    "upstream_member_sha256": "8487e9533ab4cd063846e793884b1157aa92e6d63c15cc7bd82b34e64d3d478b",
+    "timezone_assumption": "America/Chicago",
+    "gradient_filtered_days": 0,
+    "case_scope": "1975 onward; common assessment dates through 2019"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "manuscript/revision_20260916/HSJ_SUBMISSION_DRAFT.md": "2164f6b232700c3270b8a081a0aac6f7ca3f53714fb43e4b90d7484d22c02542",
+  "manuscript/revision_20260916/HSJ_SUPPLEMENTARY.md": "3c425ea47663f583dd95147a2f0e5eac4e6033f57f3608431e1d4ea01f99770b",
+  "manuscript/revision_20260916/HSJ_FIGURE_TABLE_MAP.md": "fb97742a7919946c91ce5aad6970ea602deaaf1a5a3f06ede74743f53f344d0f",
+  "code/03_analysis/plot_hsj_population_benchmark.py": "ab462e67a33ed8c088464896a151647e6a92fc674140f9a3890cad667e96d430",
+  "docs/revision_20260917/HSJ_RESTRUCTURE_RESULTS.md": "026f5b0ee9afcafae1157973e865d995537b8ec56d8a2707b383479b60f2ca43",
+  "manuscript/revision_20260916/figures/fig2_population_processing.svg": "68a3996e807c0524c14ce061ee94f86b2c0995496da141cdd14a8bcaed4c3cc3",
+  "manuscript/revision_20260916/figures/fig2_population_processing.tiff": "eba9490f4c3d4fe05b46d579c549532604d1f195c22630a064c73f3a45bcc971",
+  "manuscript/revision_20260916/figures/fig2_population_processing.pdf": "4d05a807f629ec9bfe5eb2607f020fa8ed23d9e0980738237af55dd57dad88b7",
+  "manuscript/revision_20260916/figures/fig2_population_processing.png": "b58e05d7d970623689fae0f6804099405551139ce798b8c21d773e3ed9b5afd5",
+  "outputs/revision_20260917/hsj_core/figure_source_data.csv": "d023028e103fd057d3166768b767e588ff85b0375ae90391e0ce6d7c5bb7d4fb",
+  "outputs/revision_20260917/hsj_core/population_errors.csv": "d3ace0da850b7a4b867a79acf1020a2c22fdba7aa835a27c57ed6c89373ef8b2",
+  "outputs/revision_20260917/hsj_core/verification.json": "4dbbb0766dcb354cf976948d1894e763193272ca8e0ee9a53648710898a11d64",
+  "outputs/revision_20260917/hsj_core/FIGURE_CONTRACT.md": "966d743fe95dafa90cb4c253a45c41608f9ef4b1de46949509ce74536977bea7"
+}

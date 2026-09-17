@@ -1,0 +1,5 @@
+task,sample,n,basins,lobo_difference_min,lobo_difference_max,basins_rf_lower
+US_chronological_basin,all_candidates,197,22,-0.007757101337745646,0.026919076462396774,12
+US_chronological_basin,exclude_screen_flags,193,21,0.01015069851784667,0.024830774360497968,11
+US_to_BR_retrospective,all_candidates,91,11,0.013020021352472204,0.01825355431953941,2
+US_to_BR_retrospective,exclude_screen_flags,91,11,0.013614669561778118,0.01951524821842171,2

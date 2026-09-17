@@ -1,0 +1,6 @@
+{
+  "numpy": "2.5.3",
+  "pandas": "2.2.3",
+  "timezonefinder": "9.0.0",
+  "timezonefinder-data": "3.2026.3.post1"
+}

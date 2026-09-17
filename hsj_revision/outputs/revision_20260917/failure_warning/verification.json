@@ -1,0 +1,19 @@
+{
+  "feature_rows": 542,
+  "folds": 10,
+  "feature_cutoffs": "training features end 1989-09-30; testing features end 2009-09-30",
+  "threshold_source": "outer-training error 75th percentile only",
+  "temporal_and_basin_checks": "passed",
+  "hydrology_features": [
+    "early_shape",
+    "annual_shape_sd",
+    "annual_shape_trend_abs",
+    "early_cv",
+    "early_concentration"
+  ],
+  "quality_features": [
+    "paired_invalid_fraction",
+    "negative_inflow_fraction",
+    "missing_inflow_fraction"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "status": "completed retrospective analysis; final source QC and untouched confirmation unresolved",
+  "runtime": {
+    "python": "3.9.6",
+    "numpy": "2.0.2",
+    "pandas": "2.3.3",
+    "scipy": "1.13.1",
+    "sklearn": "1.6.1"
+  },
+  "sha256": {
+    "outputs/revision_20260916/phase2/chronological_benchmark.csv": "0bcf8b22041c26768fd66e835a648987697d4a5c323ba66b855a60ee03618675",
+    "outputs/revision_20260916/phase2/flagged_event_context.csv": "abeeeee23a169a004d68fb8c1ba63331c8d4e1979b1904f668220b86370f9086",
+    "outputs/revision_20260916/phase2/chronological_predictions.csv": "1a0d318499c02298e313c4d47bb28691f675af3f9e8a0041a5a99f4b3aaae80c",
+    "outputs/revision_20260916/phase2/frozen_window_pairs.csv": "07440af3ddd44cd09530558579530b947a79b25791a2e0d3a2f8ddb31bc7a07c",
+    "outputs/revision_20260916/phase2/basin_matches.csv": "17f6f8a35459c287ecef61876e175db045ae165bc3ad49ba18a6cb251cb64e0a",
+    "outputs/revision_20260916/phase2/hypothesis_coefficients.csv": "95e4f1cbd54466698192886b6c9c087800ff1a1c3649ca492b4700e00b142b56",
+    "outputs/revision_20260916/phase2/physical_screen.csv": "b35f7e0a436be2152d0a2cfee2f6e7d99cd0f1f8198491a070b25df980738b10",
+    "manuscript/revision_20260916/MAIN_RESTRUCTURED.md": "7720b08e713ce08904343a66ec850216172e5ed60e60e68ffdb3c49c41a5b6f8",
+    "manuscript/revision_20260916/SUPPLEMENTARY_INDEX.md": "2eb77f982380a45c8f4cca9bcb28c0da714f992454d989dfb0938412224f2168",
+    "manuscript/revision_20260916/ARGUMENT_AND_EVIDENCE.md": "3b928d60cb2c180f848199f98a370f963b6b8fed1da8aebd17ab890246abd3b7",
+    "docs/revision_20260916/LITERATURE_GAP_PHASE2.md": "b19b2eb456a1a57d7b25041c3324388223114c63367ad950c75898e9f96a4d71",
+    "docs/revision_20260916/PHASE2_FROZEN_PROTOCOL.md": "7c819a9d96b5e3b321dda6d7017813882d330a6b87918f905456bf7955459ca6",
+    "docs/revision_20260916/PHASE2_FINAL_REPORT.md": "68e7ee4e7c760299f8ad46b6918dd185e6d3db61651908cbe10cdcfa3c98980c",
+    "docs/revision_20260916/QC_PHASE2_DECISIONS.md": "f3a7daf09ececc64fd1277c59032317d390bd502569ff82ba2fac6752e7e3038",
+    "code/03_analysis/revision_phase2.py": "7b195776be117e4bcb2de2075db91ec43f7409c00ad0de27f1c818999c32953d"
+  }
+}

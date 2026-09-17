@@ -1,0 +1,23 @@
+{
+  "feature_rows": 542,
+  "folds": 10,
+  "storage_features": [
+    "storage_mean",
+    "storage_sd",
+    "storage_cv",
+    "storage_seasonal_range",
+    "storage_trend_abs",
+    "storage_low10_fraction",
+    "storage_missing_fraction",
+    "storage_inflow_corr"
+  ],
+  "hydrology_features": [
+    "early_shape",
+    "annual_shape_sd",
+    "annual_shape_trend_abs",
+    "early_cv",
+    "early_concentration"
+  ],
+  "temporal_and_basin_checks": "passed",
+  "threshold_training_only": "passed"
+}

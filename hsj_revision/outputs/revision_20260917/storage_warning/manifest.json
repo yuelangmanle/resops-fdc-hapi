@@ -1,0 +1,13 @@
+{
+  "created": "2026-09-17",
+  "script": "code/03_analysis/storage_state_warning.py",
+  "script_sha256": "07c30388df37f98338893a9f5f21b32651aa59a6aea77908771948612ef27690",
+  "protocol": "docs/revision_20260917/STORAGE_STATE_PROTOCOL.md",
+  "protocol_sha256": "e93a231625b565c1aac6a5205e550feae86e3138272fc256451a70ea71de56bc",
+  "results": "docs/revision_20260917/STORAGE_STATE_RESULTS.md",
+  "results_sha256": "c6ba1e2b9194f87592c7f9691ca3eeed6e7723fd5b7f9a7f1fce63a7e6683615",
+  "scores_sha256": "046e297a0248e17bb9b0eb93d85182145ba55b3f81323d0f3cc76447cd837a0c",
+  "verification_sha256": "15cad2a15fa75313d4a72345fd88e1047b3f9dea24d5594c30355865310ab593",
+  "source_archive": "data/raw/phase2_resops_original/ResOpsUS 2.zip",
+  "raw_data_modified": false
+}

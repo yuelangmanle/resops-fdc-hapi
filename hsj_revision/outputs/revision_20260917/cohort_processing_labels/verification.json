@@ -1,0 +1,41 @@
+{
+  "reservoirs": 276,
+  "daily_files_verified": 275,
+  "daily_rows": 3818158,
+  "all_common_finite_values_match": true,
+  "full_calendar_period_exact_reservoirs": 272,
+  "remaining_differences": [
+    {
+      "ID": 1752,
+      "variable": "inflow",
+      "date": "2019-11-18",
+      "type": "finite_mask"
+    },
+    {
+      "ID": 1752,
+      "variable": "outflow",
+      "date": "2019-11-18",
+      "type": "finite_mask"
+    },
+    {
+      "ID": 1775,
+      "variable": "outflow",
+      "date": "2019-11-18",
+      "type": "finite_mask"
+    },
+    {
+      "ID": 1777,
+      "variable": "inflow",
+      "date": "2019-11-18",
+      "type": "finite_mask"
+    },
+    {
+      "ID": 1777,
+      "variable": "outflow",
+      "date": "2019-11-18",
+      "type": "finite_mask"
+    }
+  ],
+  "all_275_exact_on_available_labels_through_2019_09_30": true,
+  "coverage_warning": "Calendar labels begin 1980-01-01: WY1980 is partial; WY2020 also partial; no annual eligibility recomputed from these files."
+}

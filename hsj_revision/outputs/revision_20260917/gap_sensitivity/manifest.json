@@ -1,0 +1,18 @@
+{
+  "outputs/revision_20260917/gap_sensitivity/gap_sensitivity.png": "7e114718a08da9975fed23fce1656ef19eb668fbfda335558278488c1b333926",
+  "outputs/revision_20260917/gap_sensitivity/report.log": "278fd10e6676ab5088ec7185a82ba272d1b93319110046689da207a62b9ba205",
+  "outputs/revision_20260917/gap_sensitivity/run.log": "492054c71ab18af3200db556f15710a054cef75f053610c78b7f21899198e3ca",
+  "outputs/revision_20260917/gap_sensitivity/predictions.csv": "a3665e42342e7bdfcbddc78c63b631c8f6bd124b6e9f4ae07adf271b184bd45e",
+  "outputs/revision_20260917/gap_sensitivity/window_pairs.csv": "f76eba968399cd18f67b246b9e01c66af93281d475dcf528f6ecd1e59e9a2f3d",
+  "outputs/revision_20260917/gap_sensitivity/benchmark.csv": "59a61ff0f13765f7f91817c0d89b92c46b22c822ec2f74c857d0efd0bb5f1932",
+  "outputs/revision_20260917/gap_sensitivity/gap_sensitivity.svg": "47b9e59914eebf5d8e4e5f3c5d0ad2dc5fe662a82fbf92ee4d0cf3870037701d",
+  "outputs/revision_20260917/gap_sensitivity/final_verification.json": "2a72cb9e9a3fca15cab34d8a4751c98c1f5e9cea9ba4f7a6d482ea36bbd3a877",
+  "outputs/revision_20260917/gap_sensitivity/filled_days.csv": "a142e5b8c4194a5d4b271e93e55237ca3fa57abac9e4f8705cdf6486139b67b3",
+  "outputs/revision_20260917/gap_sensitivity/verification.json": "0d0cc3fd46d2f4b59ac03395b41d032a6ff72a5131ef1748d1331282224c4346",
+  "outputs/revision_20260917/gap_sensitivity/fold_membership.csv": "5a2064db8c1a8e6b07e8d7660b04b33e2020fea99b68a74b90bc7208d06a43a0",
+  "docs/revision_20260917/GAP_SENSITIVITY_PROTOCOL.md": "fbbc73d60fa311f245e106ddf9a8056deefff113789bbfa472f4a948263cae4c",
+  "docs/revision_20260917/GAP_SENSITIVITY_RESULTS.md": "8420485a6ae5c1d8514f96842787f4b2582ac9d5b862ed7ee6e0d3e43957621b",
+  "code/03_analysis/gap_processing_sensitivity.py": "633b8385ff9452d624e791f44eb0bc6bf67b6f2cd412d9bfb41db63ba815f05d",
+  "code/03_analysis/report_gap_sensitivity.py": "01f45fd856aeaf2ba045883ba9da64e7c3e830abdae5ea1c813d7bb41324d77f",
+  "manuscript/revision_20260916/MAIN_RESTRUCTURED.md": "8150646494623416823c76704a411705a8c13654e0f480b2ac6a3b0029374529"
+}

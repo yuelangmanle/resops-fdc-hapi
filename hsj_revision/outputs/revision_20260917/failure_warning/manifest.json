@@ -1,0 +1,16 @@
+{
+  "outputs/revision_20260917/failure_warning/coefficients.csv": "13d7b18991eb3ab752fb2c455e24c9c00ff576ad4f84efd5fbd36b105e984683",
+  "outputs/revision_20260917/failure_warning/report.log": "e1792b41d35c5065c0ece43b1cd4e4f8f1a0ceef3d3fe09e9903e7fe88fd1fb8",
+  "outputs/revision_20260917/failure_warning/run.log": "a3c535f60a05d12d65715e3078565516e0d68dd6d81196dedc08b14e7753a92d",
+  "outputs/revision_20260917/failure_warning/predictions.csv": "b3a8426ff2570b8c1535534b4ad69955e85847810e23f67281a54dfc5210a850",
+  "outputs/revision_20260917/failure_warning/final_verification.json": "a629747149f947c1061ffe0c53bd5ee2f04d16131db978dc61efef72c0dbabff",
+  "outputs/revision_20260917/failure_warning/scores.csv": "de5994219dc2b4388f0a4c218f85ff9dc1dada43eb522079271987670426b943",
+  "outputs/revision_20260917/failure_warning/verification.json": "5f5ebdc38f7bd269f1e812b27dbb433357f5109134641859b103b7ffb51eb44c",
+  "outputs/revision_20260917/failure_warning/features.csv": "a428ac4c7f05acdf0f1cdce10ce31449f26cd276364362672deeb348b74373bc",
+  "outputs/revision_20260917/failure_warning/folds.csv": "707441a965449491f62dbd72a89c409979da799f61df68276345d113a7625386",
+  "docs/revision_20260917/FAILURE_WARNING_PROTOCOL.md": "0ac261be40c3cf61d85f15797e819039f6f6093e379d3c0eba213abdf804cec2",
+  "docs/revision_20260917/FAILURE_WARNING_RESULTS.md": "83b682e9fd2d614aceb7ace51da79517afd6625739a3e0e9b02b9072ec7995b2",
+  "code/03_analysis/persistence_failure_warning.py": "5135b3637bcf206209b84d419b49932b851e37cbc5ceac9a45001c4685135330",
+  "code/03_analysis/report_failure_warning.py": "8355abb497a9a5452f04a740526ccb7d8e73a26140ba1e70c6f6822ce4350bde",
+  "manuscript/revision_20260916/MAIN_RESTRUCTURED.md": "14bdefc122faff7208f080d9b5e0c53e021ac295b7d59e7109111218c8183f52"
+}

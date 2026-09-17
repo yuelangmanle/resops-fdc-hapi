@@ -1,33 +1,33 @@
 {
-  "title": "Reservoir FDC Alteration and HAPI",
-  "description": "Reproducible analysis code for reservoir flow-duration-curve alteration and the Hydrological Alteration Prioritization Index (HAPI). This release contains the scripts used for the Journal of Hydrology submission package.",
+  "title": "Temporal persistence as a benchmark for reservoir-associated flow-duration alteration: code and results",
+  "description": "Version 2.0.0 provides the revised chronological and main-basin benchmark, saved predictions, fixed-cohort source comparisons, gap sensitivities, failure-warning experiments and figure sources in hsj_revision/. Saved-result verification is included; a fresh-input clean-environment rerun has not been completed. Historical files outside hsj_revision/ belong to the earlier workflow. Raw flow archives and BasinATLAS polygons are not redistributed.",
   "upload_type": "software",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "license": "MIT",
   "keywords": [
     "reservoir operations",
-    "flow duration curve",
-    "hydrological alteration",
-    "HAPI",
-    "large-sample hydrology"
+    "flow-duration curves",
+    "temporal persistence",
+    "hydrological benchmarks",
+    "sample selection"
   ],
   "creators": [
     {
       "name": "Deng, Zijie",
-      "affiliation": "Jiangxi University of Water Resources and Electric Power",
+      "affiliation": "Jiangxi Provincial Key Laboratory of Water Resources Allocation and Efficient Utilization, Jiangxi University of Water Resources and Electric Power, Nanchang 330099, China",
       "orcid": "0009-0002-4824-9764"
     },
     {
       "name": "Xia, Yu",
-      "affiliation": "Jiangxi University of Water Resources and Electric Power"
+      "affiliation": "Jiangxi Provincial Key Laboratory of Water Resources Allocation and Efficient Utilization, Jiangxi University of Water Resources and Electric Power, Nanchang 330099, China"
     },
     {
       "name": "Yu, Jiyang",
-      "affiliation": "Jiangxi University of Water Resources and Electric Power"
+      "affiliation": "Jiangxi Provincial Key Laboratory of Water Resources Allocation and Efficient Utilization, Jiangxi University of Water Resources and Electric Power, Nanchang 330099, China"
     },
     {
       "name": "Liao, Zhenyu",
-      "affiliation": "Jiangxi University of Water Resources and Electric Power"
+      "affiliation": "School of Geography and Environment, Jiangxi Normal University, No. 99 Ziyang Avenue, Nanchang, Jiangxi 330022, China"
     }
   ],
   "related_identifiers": [
@@ -38,6 +38,11 @@
     },
     {
       "identifier": "10.5281/zenodo.16096623",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.6612040",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     }

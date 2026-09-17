@@ -1,0 +1,6 @@
+{
+  "rows_checked": 16,
+  "mae_match_tolerance": 1e-10,
+  "all_passed": true,
+  "scope": "Saved predictions, no raw-data rerun"
+}

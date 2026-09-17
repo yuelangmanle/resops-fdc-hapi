@@ -1,0 +1,6 @@
+{
+  "chronological_rows_checked": 16,
+  "mae_tolerance": 1e-10,
+  "all_passed": true,
+  "scope": "Saved predictions; no model refitting or raw-data rerun"
+}

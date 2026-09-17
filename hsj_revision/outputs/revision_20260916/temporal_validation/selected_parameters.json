@@ -1,0 +1,4727 @@
+[
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "common1990_2019",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage80",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "coverage95",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "exclude_flagged",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "primary",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years15",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "shape",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "low10",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 1.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "early_ridge",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 0,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 1,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 2,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 3,
+    "best": {
+      "ridge__alpha": 10.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "additive_spline",
+    "fold": 4,
+    "best": {
+      "ridge__alpha": 100.0
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 0,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 1,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 2,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 3,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "boosting",
+    "fold": 4,
+    "best": {
+      "gradientboostingregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 0,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 1,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 5
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 2,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 3,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  },
+  {
+    "scenario": "years8",
+    "target": "ratio",
+    "model": "attributes_only_rf",
+    "fold": 4,
+    "best": {
+      "randomforestregressor__min_samples_leaf": 15
+    }
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "checks": [
+    {
+      "ID": 938,
+      "variable": "inflow",
+      "n": 16067,
+      "max_abs_error": 1.4210854715202004e-14,
+      "missing_mask_matches": true
+    },
+    {
+      "ID": 938,
+      "variable": "outflow",
+      "n": 16062,
+      "max_abs_error": 5.329070518200751e-15,
+      "missing_mask_matches": true
+    },
+    {
+      "ID": 939,
+      "variable": "inflow",
+      "n": 15828,
+      "max_abs_error": 2.842170943040401e-14,
+      "missing_mask_matches": true
+    },
+    {
+      "ID": 939,
+      "variable": "outflow",
+      "n": 16062,
+      "max_abs_error": 8.881784197001252e-16,
+      "missing_mask_matches": true
+    }
+  ],
+  "linear_limit_does_partially_fill_long_gaps": true,
+  "focal_2007_09_05_reconstructed": 174.8005,
+  "mask_only_retains_original_valid_pair_metrics": true,
+  "version_claim": "historical candidate reproduces 938/939 inflow/outflow through 2019; exact production commit not attested; not a full-dataset replay"
+}

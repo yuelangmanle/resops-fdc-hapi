@@ -1,0 +1,11 @@
+{
+  "duplicate_excluded": [
+    1207
+  ],
+  "frozen_cars_pairs_match": 344,
+  "complete_gap_boundary_checks": "passed",
+  "common_date_upstream_values_identical": "passed",
+  "temporal_and_basin_separation": "passed",
+  "scenarios": 15,
+  "protocol_sha256": "fbbc73d60fa311f245e106ddf9a8056deefff113789bbfa472f4a948263cae4c"
+}

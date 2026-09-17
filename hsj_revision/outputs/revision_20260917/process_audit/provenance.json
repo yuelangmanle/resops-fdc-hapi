@@ -1,0 +1,7 @@
+{
+  "source_pair_sha256": "07440af3ddd44cd09530558579530b947a79b25791a2e0d3a2f8ddb31bc7a07c",
+  "case_rule": "four smallest/four largest absolute shape changes among unflagged US 2000-09\u21922010-19 pairs",
+  "warning": "case selection is descriptive and not independent; no process causality claimed",
+  "eligibility": "water-year finite nonnegative paired daily coverage >= 0.90; corrected 2026-09-17",
+  "verification": "16 case-window rows match frozen year counts, inflow means and mean-flow ratios"
+}

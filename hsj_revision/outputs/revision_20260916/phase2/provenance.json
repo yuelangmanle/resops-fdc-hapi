@@ -1,0 +1,14 @@
+{
+  "status": "exploratory chronological and geographic replay, not untouched confirmation",
+  "features": [
+    "early_shape",
+    "early_ratio",
+    "early_low10",
+    "early_cv",
+    "early_zero_delta",
+    "early_concentration",
+    "early_trend"
+  ],
+  "protocol_sha256": "7c819a9d96b5e3b321dda6d7017813882d330a6b87918f905456bf7955459ca6",
+  "script_sha256": "7b195776be117e4bcb2de2075db91ec43f7409c00ad0de27f1c818999c32953d"
+}

@@ -1,0 +1,16 @@
+{
+  "code/03_analysis/revision_temporal_validation.py": "65816250b084aebfb60ae99c623600276751fcd9ff844c21ceb5ae138edcdf35",
+  "code/03_analysis/revision_validation_checks.py": "36f5f06e9fca24403445105ce260efc3bd354da2114879a2ed0ecc07068c11d5",
+  "docs/revision_20260916/TEMPORAL_VALIDATION_PROTOCOL.md": "a05efff1fa93d2666664a6f72f64bfbbce2e29918a528e5eb0e3b56f490b6659",
+  "outputs/revision_20260916/temporal_validation/temporal_metrics.csv": "29b6a5bcfa14024f4332bb27477f79711d93b112cc92a54d64e9db77329c30b0",
+  "outputs/revision_20260916/temporal_validation/oof_predictions.csv": "945bc839d24708687effd114443f415ade67f7b54df68b5ac6300306bace142a",
+  "outputs/revision_20260916/temporal_validation/numerical_solver_checks.csv": "0a6820dfb48a86b1684db3b6a25c8e9e0573aa4d6553c598d6231c1d7aebdb41",
+  "outputs/revision_20260916/temporal_validation/source_audit.csv": "2425b8a6e9de61ccb4fa078db0afbb230049fa9bbe351e3ed1f3c51bd5c75711",
+  "outputs/revision_20260916/temporal_validation/basin_assignment_audit.csv": "b6646285a29b76506dabdcaa9e5bababa3a2f4b8d22c26585bc881a63579063f",
+  "outputs/revision_20260916/temporal_validation/benchmark_summary.csv": "0570dedc16035fca7125a71f969b432cab511dfe7bf782278b98bba50bbfe8c1",
+  "outputs/revision_20260916/temporal_validation/basin_errors.csv": "d39a1cd8efd9604c37d67bbbd04c7becd3580e637ef2cfaca174f2a5c365fe04",
+  "outputs/revision_20260916/temporal_validation/fold_metrics.csv": "4f6505db0c6217572ee9f221950461f45400095c4e2cb039551e051aa0770df3",
+  "outputs/revision_20260916/temporal_validation/analysis_table.csv": "26e238e0dd8ffb5398ba58a74392c69dacacedcc1368499fdcc308d25967e684",
+  "outputs/revision_20260916/temporal_validation/equal_basin_metrics.csv": "436d6c3bc14dd3ab4478306e87a8ada895c30671fa70332dd2b24cbd140ee164",
+  "outputs/revision_20260916/temporal_validation/window_membership_comparison.csv": "a9723f0bf108bd8ac31da15dcfa1d4d03539da886e7349861e6b81feb047cf82"
+}

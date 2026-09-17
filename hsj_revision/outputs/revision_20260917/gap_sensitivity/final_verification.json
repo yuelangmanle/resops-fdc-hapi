@@ -1,0 +1,8 @@
+{
+  "scores_recomputed": 60,
+  "fold_memberships_checked": 75,
+  "common_date_predictions_equal": true,
+  "persistence_lower_mae_than_rf_all_scenarios": true,
+  "rf_difference_intervals_crossing_zero": 13,
+  "scenarios": 15
+}

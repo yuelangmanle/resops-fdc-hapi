@@ -1,0 +1,16 @@
+{
+  "population_n": [
+    197,
+    154,
+    43
+  ],
+  "population_mae": [
+    0.0773008771832196,
+    0.05754472359424147,
+    0.1480554737576994
+  ],
+  "weighted_identity_passed": true,
+  "source_and_gap_mae_recomputed": true,
+  "uncertainty": "Saved paired main-basin bootstrap intervals, conditional on fitted predictions; panels a-c show point estimates",
+  "no_raw_data_modified": true
+}

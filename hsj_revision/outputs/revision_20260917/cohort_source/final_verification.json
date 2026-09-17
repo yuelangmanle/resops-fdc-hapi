@@ -1,0 +1,11 @@
+{
+  "original_prediction_rows_verified": 788,
+  "max_prediction_difference": 0.00034851488764719996,
+  "folds_and_training_counts_match": true,
+  "scores_recomputed": 40,
+  "temporal_and_basin_separation": "passed",
+  "water_year_boundary_and_coverage_tests": "passed",
+  "negative_value_filter_test": "passed",
+  "source_matched_files": 276,
+  "comparable_without_duplicate_dates": 275
+}

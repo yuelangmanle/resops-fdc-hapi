@@ -1,0 +1,17 @@
+{
+  "audited": 276,
+  "matched": 275,
+  "frozen_cars_replay_rows": 344,
+  "all_frozen_metrics_match": true,
+  "unknown_fold_exclusions": 0,
+  "source_counts": {
+    "('cars', 'test')": 197,
+    "('cars', 'train')": 147,
+    "('cars_common_days', 'test')": 154,
+    "('cars_common_days', 'train')": 118,
+    "('upstream', 'test')": 154,
+    "('upstream', 'train')": 118,
+    "('upstream_common_days', 'test')": 154,
+    "('upstream_common_days', 'train')": 118
+  }
+}
